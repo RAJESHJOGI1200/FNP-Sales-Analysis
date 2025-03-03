@@ -7,7 +7,7 @@ This project analyzes the sales performance of **Ferns and Petals (FNP)**, a com
 - **Excel** (Data Cleaning, Pivot Tables, Data Analysis)  
 - **Power BI / Excel Dashboard** (Data Visualization)  
 
-## 📈 Key Insights & Analysis  
+## 📈 Key Insights & Analysis
 The project answers critical business questions to help FNP enhance its sales strategy:  
 
 1. **Total Revenue:** Identified overall revenue from all sales.  
